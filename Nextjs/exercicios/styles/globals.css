@@ -14,3 +14,33 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.banner {
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1)),
+    url("../img/imagem_principal.jpg") no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: calc(100vh);
+  margin-bottom: 0;
+}
+
+.topo{
+  display: flex;
+  flex-direction: column;
+  justify-self: stretch;
+}
+.topo h1 {
+  margin-top: 50px;
+  color: brown;
+}
+
+.pagraght {
+  height: 80%;
+  width: 50%;
+  color: white;
+  font-weight: 4  00;
+}
+
+.topo p {
+  margin-top: 20px;
+}
