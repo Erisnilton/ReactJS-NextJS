@@ -1,3 +1,6 @@
 [submodule "codeFlix"]
 	path = codeFlix
 	url = git@github.com:erisnilton/codeFlix.git
+[submodule "srstudio"]
+	path = srstudio
+	url = git@github.com:erisnilton/srstudio.git
