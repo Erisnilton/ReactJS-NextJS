@@ -1,4 +1,4 @@
-Repositório de estudo do biblioteca  __ReactJS__ e do framework __NesxtJS__.
+Repositório de estudo da biblioteca  __ReactJS__ e do framework __NesxtJS__.
 
 Lista de projetos nesse reprositorio:
 
