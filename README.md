@@ -11,6 +11,8 @@ Lista de projetos nesse reprositorio:
 
 :heavy_check_mark: Codeflix
 
+:heavy_check_mark: Codeflix-admin
+
 :heavy_check_mark: Srstudio
 
 
