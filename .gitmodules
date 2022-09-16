@@ -7,3 +7,9 @@
 [submodule "Teste-full-stack-p3"]
 	path = Teste-full-stack-p3
 	url = git@github.com:erisnilton/Teste-full-stack-p3.git
+[submodule "Components"]
+	path = components
+	url = git@github.com:erisnilton/components.git
+
+
+
