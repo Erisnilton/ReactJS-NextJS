@@ -15,6 +15,8 @@ Lista de projetos nesse reprositorio:
 
 :heavy_check_mark: Srstudio
 
+:heavy_check_mark: Components
+
 
 
 OBS: Entrando em cada repositório Terá um descrição de cada projeto!
